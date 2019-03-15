@@ -1,0 +1,13 @@
+.important{
+  color:green;
+}
+.unimportant{
+  color:red;
+}
+.intro{
+  font-style: oblique;
+}
+.author{
+  color:purple
+  font-style:italic;
+}
